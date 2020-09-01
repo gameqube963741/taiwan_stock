@@ -1,7 +1,7 @@
 <!-- 即時股市爬取 -->
 # twstock台灣股市專用模組抓取即時股價，並實現視覺化
 
-pip install twstock \n
+pip install twstock /n
 import twstock 
 stock = tw.stock.Stock('2317')
 
