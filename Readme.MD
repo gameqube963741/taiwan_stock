@@ -22,6 +22,7 @@ pip install twstock
 # 視覺化 與 資料呈現
 1. 數據
 
+![](./demo_images/foxc1.png)
 ![](./demo_images/foxcdata.png)
 
 2. 視覺化
