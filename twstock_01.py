@@ -33,8 +33,8 @@ for s in stocklist:
 
 
 plt.figure(figsize=[10,5])
-plt.title('鴻海2019年12月股價',fontsize=18)
-plt.xlabel("日期",fontsize=14)
+plt.title('Foxconn Technology Group 2019-12月 stock',fontsize=18)
+plt.xlabel("date",fontsize=14)
 plt.ylabel("股價",fontsize=14)
 plt.plot(listx, listy, 'r:s')
 plt.xticks(rotation=45)
